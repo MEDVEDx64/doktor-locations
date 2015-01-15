@@ -221,8 +221,8 @@
 {"id":"loc","x":-4282,"y":64,"z":8485,"name":"Sandboxers"},
 {"id":"loc","x":-4360,"y":64,"z":7795,"name":"Bitfield"},
 {"id":"loc","x":-3525,"y":64,"z":-3435,"name":"Fortranahu"},
-{"id":"loc","x":-1772,"y":84,"z":7215,"name":"Seaport \"Cthulhu\""},
-{"id":"loc","x":-1920,"y":64,"z":6850,"name":"Seaport \"Winslow\""},
-{"id":"loc","x":-2473,"y":64,"z":6879,"name":"Seaport \"Rabbit\""},
+{"id":"loc","x":-1772,"y":74,"z":7215,"name":"Seaport \"Cthulhu\""},
+{"id":"loc","x":-1920,"y":89,"z":6850,"name":"Seaport \"Winslow\""},
+{"id":"loc","x":-2473,"y":84,"z":6879,"name":"Seaport \"Rabbit\""},
 {"id":"loc","x":-4890,"y":64,"z":8530,"name":"Break-York"}
 ]
